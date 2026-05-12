@@ -1,6 +1,6 @@
 Letterboxd list export v7
 Date,Name,Tags,URL,Description
-2020-10-12,Empire Masterpieces,,https://boxd.it/8WYew,
+2020-10-12,Empire Masterpieces,liststats,https://boxd.it/8WYew,
 
 Position,Name,Year,URL,Description
 1,Raging Bull,1980,https://boxd.it/28yI,Issue 167 - May 2003
@@ -287,22 +287,38 @@ words by Andrew Male"
 words by Dan Jolin"
 177,Mulholland Drive,2001,https://boxd.it/297o,"Issue 351 - July 2018
 words by Adam Smith"
-178,The Man Who Would Be King,1975,https://boxd.it/299O,
-179,A Hard Day's Night,1964,https://boxd.it/29LS,
-180,The Insider,1999,https://boxd.it/1ZoE,
-181,Field of Dreams,1989,https://boxd.it/26VK,
-182,Airplane!,1980,https://boxd.it/29yu,
-183,Who Framed Roger Rabbit,1988,https://boxd.it/29ry,
-184,Swingers,1996,https://boxd.it/1WNc,
-185,The Outlaw Josey Wales,1976,https://boxd.it/1VuS,
-186,Singin' in the Rain,1952,https://boxd.it/29oY,
-187,An American Werewolf in London,1981,https://boxd.it/29yk,
-188,Imitation of Life,1959,https://boxd.it/1efK,
-189,Clerks,1994,https://boxd.it/2706,
-190,Women on the Verge of a Nervous Breakdown,1988,https://boxd.it/24GI,
-191,Modern Times,1936,https://boxd.it/25MC,
-192,Grosse Pointe Blank,1997,https://boxd.it/1YGW,
-193,Assault on Precinct 13,1976,https://boxd.it/1I2c,
+178,The Man Who Would Be King,1975,https://boxd.it/299O,"Issue 352
+words by Nev Pierce"
+179,A Hard Day's Night,1964,https://boxd.it/29LS,"Issue 353
+words by Kim Newman"
+180,The Insider,1999,https://boxd.it/1ZoE,"Issue 354
+words by Priscilla Page"
+181,Field of Dreams,1989,https://boxd.it/26VK,"Issue 355
+words by Jonathan Pile"
+182,Airplane!,1980,https://boxd.it/29yu,"Issue 356
+words by Andrew Dickens"
+183,Who Framed Roger Rabbit,1988,https://boxd.it/29ry,"Issue 358
+words by Olly Richards"
+184,Swingers,1996,https://boxd.it/1WNc,"Issue 359
+words by Ali Gray"
+185,The Outlaw Josey Wales,1976,https://boxd.it/1VuS,"Issue 360
+words by Dan Jolin"
+186,Singin' in the Rain,1952,https://boxd.it/29oY,"Issue 361
+words by Ian Nathan"
+187,An American Werewolf in London,1981,https://boxd.it/29yk,"Issue 362
+words by Alex Godfrey"
+188,Imitation of Life,1959,https://boxd.it/1efK,"Issue 363
+words by Ellen E. Jones"
+189,Clerks,1994,https://boxd.it/2706,"Issue 364
+words by Ben Travis"
+190,Women on the Verge of a Nervous Breakdown,1988,https://boxd.it/24GI,"Issue 365
+words by Helen O'Hara"
+191,Modern Times,1936,https://boxd.it/25MC,"Issue 367
+words by John Nugent"
+192,Grosse Pointe Blank,1997,https://boxd.it/1YGW,"Issue 368
+words by Neil Alcock"
+193,Assault on Precinct 13,1976,https://boxd.it/1I2c,"Issue 369
+words by Priscilla Page"
 194,if....,1968,https://boxd.it/1Nna,
 195,The Ipcress File,1965,https://boxd.it/1MzE,
 196,Mean Streets,1973,https://boxd.it/2aSU,
@@ -437,3 +453,12 @@ words by Adam Smith"
 words by Jamie Graham"
 268,Cléo from 5 to 7,1962,https://boxd.it/2agm,"Issue 449 - February 2026
 words by Beth Webb"
+269,Boogie Nights,1997,https://boxd.it/23um,"Issue 450 - March 2026
+words by Alex Godfrey"
+270,Touch of Evil,1958,https://boxd.it/28II,"Issue 451 - April 2026
+words by Rick Burin"
+271,The Maltese Falcon,1941,https://boxd.it/29c4,"Issue 452 - May 2026
+words by Neil Alcock"
+272,For a Few Dollars More,1965,https://boxd.it/29eu,"Issue 453 - June 2026
+words by Christina Newland"
+273,Interstellar,2014,https://boxd.it/4VZ8,

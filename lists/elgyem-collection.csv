@@ -1,365 +1,1138 @@
 Letterboxd list export v7
 Date,Name,Tags,URL,Description
-2026-01-28,clone Elgyem Collection,,https://boxd.it/S9DkO,
+2026-05-12,clone elgyem,,https://boxd.it/Upi3W,
 
 Position,Name,Year,URL,Description
-1,The Innocents,1961,https://boxd.it/1KeY,
-2,Crossing Delancey,1988,https://boxd.it/1rTS,
-3,Dim Sum: A Little Bit of Heart,1985,https://boxd.it/4mU8,
-4,Silvia Prieto,1999,https://boxd.it/EI2,
-5,The Great Silence,1968,https://boxd.it/1ZlA,
-6,Girl 6,1996,https://boxd.it/cXS,
-7,Humanity and Paper Balloons,1937,https://boxd.it/2XQI,
-8,The Heartbreak Kid,1972,https://boxd.it/11aM,
-9,Margaret,2011,https://boxd.it/2kbm,
-10,M,1931,https://boxd.it/29vq,
-11,Love Letter,1995,https://boxd.it/LMA,
-12,Deep End,1970,https://boxd.it/i8m,
-13,The Lovers on the Bridge,1991,https://boxd.it/26li,
-14,Within Our Gates,1920,https://boxd.it/2GIC,
-15,News from Home,1976,https://boxd.it/34TO,
-16,Happy-Go-Lucky,2008,https://boxd.it/1W68,
-17,The Milky Way,1969,https://boxd.it/1cVk,
-18,Young Mr. Lincoln,1939,https://boxd.it/Tsy,
-19,"Night Is Short, Walk On Girl",2017,https://boxd.it/ffwA,
-20,His Kind of Woman,1951,https://boxd.it/1f36,
-21,A Brighter Summer Day,1991,https://boxd.it/1Luy,
-22,Fiddler on the Roof,1971,https://boxd.it/1Nle,
-23,"Yes, Madam!",1985,https://boxd.it/13EE,
-24,Marat/Sade,1967,https://boxd.it/Spe,
-25,The Intruder,2004,https://boxd.it/LrM,
-26,Unfaithfully Yours,1948,https://boxd.it/1g4Y,
-27,Leave No Trace,2018,https://boxd.it/fMfM,
-28,He Who Gets Slapped,1924,https://boxd.it/1rDg,
-29,The Texas Chain Saw Massacre,1974,https://boxd.it/1lcS,
-30,Alexander Nevsky,1938,https://boxd.it/1WKC,
-31,Tokyo Sonata,2008,https://boxd.it/1ZxQ,
-32,Manhunter,1986,https://boxd.it/1TOw,
-33,The Color Wheel,2011,https://boxd.it/2V48,
-34,Day Night Day Night,2006,https://boxd.it/1OZO,
-35,Psycho,1998,https://boxd.it/1Ugg,
-36,Psycho,1960,https://boxd.it/2ab2,
-37,The Chess Players,1977,https://boxd.it/2Oko,
-38,Brighton Rock,1948,https://boxd.it/1QhY,
-39,Rapid Fire,1992,https://boxd.it/1QI6,
-40,Loulou,1980,https://boxd.it/13Jk,
-41,Alice Doesn't Live Here Anymore,1974,https://boxd.it/1KIa,
-42,Piccadilly,1929,https://boxd.it/Cce,
-43,Cries and Whispers,1972,https://boxd.it/1WK8,
-44,Silence Has No Wings,1966,https://boxd.it/3xEo,
-45,Solaris,2002,https://boxd.it/27qS,
-46,Mädchen in Uniform,1931,https://boxd.it/1Y8g,
-47,Edward II,1991,https://boxd.it/TVA,
-48,Bound,1996,https://boxd.it/1Z1g,
-49,Je Tu Il Elle,1974,https://boxd.it/3gWK,
-50,Tropical Malady,2004,https://boxd.it/1TCA,
-51,Nanook of the North,1922,https://boxd.it/29Rc,
-52,A Star Is Born,1954,https://boxd.it/25I6,
-53,Asako I & II,2018,https://boxd.it/hyNk,
-54,Lianna,1983,https://boxd.it/2I5i,
-55,Baby It's You,1983,https://boxd.it/XJI,
-56,The Set-Up,1949,https://boxd.it/1IYA,
-57,The Girls,1968,https://boxd.it/4mK8,
-58,Life Is Sweet,1990,https://boxd.it/19GQ,
-59,Terror Train,1980,https://boxd.it/10uQ,
-60,Columbus,2017,https://boxd.it/eCuA,
-61,Grand Prix,1966,https://boxd.it/1DzK,
-62,Phoenix,2014,https://boxd.it/7u46,
-63,The Hero,1966,https://boxd.it/3MJI,
-64,Safety Last!,1923,https://boxd.it/1AkW,
-65,"Right Now, Wrong Then",2015,https://boxd.it/bWs4,
-66,Remember My Name,1978,https://boxd.it/2XKA,
-67,The Daytrippers,1996,https://boxd.it/F9i,
-68,Rififi,1955,https://boxd.it/29f8,
-69,Midnight,1939,https://boxd.it/1hXK,
-70,Love & Basketball,2000,https://boxd.it/1Nu6,
-71,Moving,1993,https://boxd.it/3RcO,
-72,Killer Joe,2011,https://boxd.it/2vtQ,
-73,Le Notti Bianche,1957,https://boxd.it/V0G,
-74,Manakamana,2013,https://boxd.it/6mVO,
-75,The Wind Rises,2013,https://boxd.it/4JQS,
-76,Alligator,1980,https://boxd.it/1fkm,
-77,A Place in the Sun,1951,https://boxd.it/1vlg,
-78,The American Friend,1977,https://boxd.it/1UkC,
-79,Putney Swope,1969,https://boxd.it/1gV4,
-80,The Adventures of Robin Hood,1938,https://boxd.it/1V6G,
-81,The Passion of Joan of Arc,1928,https://boxd.it/29DO,
-82,Autopsy,1975,https://boxd.it/3kAe,
-83,Love Is Strange,2014,https://boxd.it/7aRW,
-84,Finis Terræ,1929,https://boxd.it/4IxA,
-85,This Is Not a Film,2011,https://boxd.it/2W4o,
-86,The Ice Storm,1997,https://boxd.it/2c6I,
-87,The Flowers of St. Francis,1950,https://boxd.it/oTS,
-88,Irma Vep,1996,https://boxd.it/1vYs,
-89,Frankenstein,1931,https://boxd.it/25Te,
-90,Bride of Frankenstein,1935,https://boxd.it/2aPc,
-91,King Kong,1933,https://boxd.it/2aMM,
-92,"Lust, Caution",2007,https://boxd.it/244k,
-93,Broken Lullaby,1932,https://boxd.it/kWI,
-94,The Bloodiest,2005,https://boxd.it/77Ru,
-95,Forever Amber,1947,https://boxd.it/3yyQ,
-96,The House of Mirth,2000,https://boxd.it/1vEC,
-97,La Cérémonie,1995,https://boxd.it/287C,
-98,Silence,2016,https://boxd.it/2cAo,
-99,Personal Best,1982,https://boxd.it/1rpo,
-100,Godzilla,1954,https://boxd.it/28kc,
-101,A Woman Under the Influence,1974,https://boxd.it/1myg,
-102,The Lion in Winter,1968,https://boxd.it/1FVe,
-103,The Constant Factor,1980,https://boxd.it/5YuO,
-104,Two Monks,1934,https://boxd.it/5fTk,
-105,The Verdict,1982,https://boxd.it/1y3Y,
-106,The Last Days of Disco,1998,https://boxd.it/1JpQ,
-107,Mirch Masala,1987,https://boxd.it/6R0E,
-108,The New World,2005,https://boxd.it/1TVW,
-109,The Quiet Man,1952,https://boxd.it/25Iq,
-110,Sweet Bean,2015,https://boxd.it/alaK,
-111,This Transient Life,1970,https://boxd.it/3y8S,
-112,Mistress America,2015,https://boxd.it/9UfS,
-113,The Straight Story,1999,https://boxd.it/2ass,
-114,Make Way for Tomorrow,1937,https://boxd.it/10hC,
-115,Baby Boy,2001,https://boxd.it/1KGS,
-116,Poetic Justice,1993,https://boxd.it/20og,
-117,"The Good, the Bad and the Ugly",1966,https://boxd.it/2ape,
-118,Strange Days,1995,https://boxd.it/2aGO,
-119,The Taking of Pelham One Two Three,1974,https://boxd.it/20lG,
-120,Secret Sunshine,2007,https://boxd.it/27CY,
-121,Love & Pop,1998,https://boxd.it/2sv0,
-122,Bob & Carol & Ted & Alice,1969,https://boxd.it/1tIM,
-123,Bamboozled,2000,https://boxd.it/1xfa,
-124,Le Samouraï,1967,https://boxd.it/22ZI,
-125,Down by Law,1986,https://boxd.it/28CA,
-126,Exotica,1994,https://boxd.it/1DXW,
-127,Silent Light,2007,https://boxd.it/27Ds,
-128,Chameleon Street,1989,https://boxd.it/3v94,
-129,Entre Nous,1983,https://boxd.it/XIU,
-130,I Am a Fugitive from a Chain Gang,1932,https://boxd.it/1mNg,
-131,"Léon Morin, Priest",1961,https://boxd.it/5O0,
-132,"They Shoot Horses, Don't They?",1969,https://boxd.it/1q9u,
-133,Romancing in Thin Air,2012,https://boxd.it/347K,
-134,Black Sunday,1977,https://boxd.it/DNU,
-135,Went the Day Well?,1942,https://boxd.it/1yF4,
-136,Invasion of the Body Snatchers,1956,https://boxd.it/1TAa,
-137,Howards End,1992,https://boxd.it/20nW,
-138,Atonement,2007,https://boxd.it/24ui,
-139,Through a Glass Darkly,1961,https://boxd.it/1TrW,
-140,A Page of Madness,1926,https://boxd.it/3i2u,
-141,The Conversation,1974,https://boxd.it/2a38,
-142,The Blot,1921,https://boxd.it/4TIO,
-143,August in the Water,1995,https://boxd.it/3xQE,
-144,Melvin and Howard,1980,https://boxd.it/15ey,
-145,Mulholland Drive,2001,https://boxd.it/297o,
-146,Being There,1979,https://boxd.it/1WxS,
-147,Pépé le Moko,1937,https://boxd.it/1ufQ,
-148,Personal Shopper,2016,https://boxd.it/bkGM,
-149,The Blazing Sun,1954,https://boxd.it/60c8,
-150,School of Rock,2003,https://boxd.it/28xK,
-151,Medium Cool,1969,https://boxd.it/WsQ,
-152,Throne of Blood,1957,https://boxd.it/251w,
-153,The Sun Shines Bright,1953,https://boxd.it/3GTi,
-154,The Wedding Banquet,1993,https://boxd.it/1Z82,
-155,Vagabond,1985,https://boxd.it/T0u,
-156,Walking and Talking,1996,https://boxd.it/ELq,
-157,House of Tolerance,2011,https://boxd.it/2Yjq,
-158,Meet Me in St. Louis,1944,https://boxd.it/29j0,
-159,Pharaoh,1966,https://boxd.it/23rC,
-160,The Fog,1980,https://boxd.it/29Cc,
-161,Alma's Rainbow,1994,https://boxd.it/8yF8,
-162,Dilwale Dulhania Le Jayenge,1995,https://boxd.it/1F9k,
-163,Funeral Parade of Roses,1969,https://boxd.it/28Cg,
-164,Puzzle of a Downfall Child,1970,https://boxd.it/3fyM,
-165,The Decameron,1971,https://boxd.it/1fdq,
-166,Barry Lyndon,1975,https://boxd.it/25A2,
-167,Fail Safe,1964,https://boxd.it/2afS,
-168,First Reformed,2017,https://boxd.it/go9C,
-169,The Nun,1966,https://boxd.it/WbK,
-170,The Miracle of Morgan’s Creek,1943,https://boxd.it/VO2,
-171,Three Colours: Blue,1993,https://boxd.it/2b7K,
-172,Three Colours: Red,1994,https://boxd.it/2b7q,
-173,Three Colours: White,1994,https://boxd.it/2b7A,
-174,Nadja,1994,https://boxd.it/1dF8,
-175,Grease,1978,https://boxd.it/29YW,
-176,The Ascent,1977,https://boxd.it/Eew,
-177,Morocco,1930,https://boxd.it/Woa,
-178,The Effect of Gamma Rays on Man-in-the-Moon Marigolds,1972,https://boxd.it/38sM,
-179,El Dorado,1966,https://boxd.it/21qM,
-180,Don't Look Now,1973,https://boxd.it/29fC,
-181,To Be or Not to Be,1942,https://boxd.it/2aTy,
-182,Night Moves,1975,https://boxd.it/1hRM,
-183,Funny Games,1997,https://boxd.it/1WKM,
-184,The Harder They Fall,1956,https://boxd.it/1pnK,
-185,Popeye,1980,https://boxd.it/1U6q,
-186,Just Another Girl on the I.R.T.,1992,https://boxd.it/45gq,
-187,The Assistant,2019,https://boxd.it/neWo,
-188,The Cave of the Yellow Dog,2005,https://boxd.it/28Qs,
-189,The Gospel According to St. Matthew,1964,https://boxd.it/1y7c,
-190,Holiday,1938,https://boxd.it/1Ks2,
-191,The Bridges of Madison County,1995,https://boxd.it/29Os,
-192,Enamorada,1946,https://boxd.it/3QiG,
-193,Foxfire,1996,https://boxd.it/1GJo,
-194,The Ox-Bow Incident,1943,https://boxd.it/29ai,
-195,Safe,1995,https://boxd.it/1gKU,
-196,The Battle of Algiers,1966,https://boxd.it/1IRY,
-197,10 Things I Hate About You,1999,https://boxd.it/23AO,
-198,Opening Night,1977,https://boxd.it/1f4e,
-199,A Summer Place,1959,https://boxd.it/1G5o,
-200,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",1975,https://boxd.it/T18,
-201,Kiss of the Spider Woman,1985,https://boxd.it/1Tci,
-202,Gosford Park,2001,https://boxd.it/239e,
-203,Hatari!,1962,https://boxd.it/1TYm,
-204,"Dawn Breaks, Which Is No Small Thing",1989,https://boxd.it/1DcQ,
-205,Ran,1985,https://boxd.it/1Tlu,
-206,Society,1989,https://boxd.it/1ARc,
-207,The Blair Witch Project,1999,https://boxd.it/26ua,
-208,The Cremator,1969,https://boxd.it/1H8y,
-209,The Body Snatcher,1945,https://boxd.it/1lwy,
-210,Jennifer's Body,2009,https://boxd.it/1Efw,
-211,Avalon,1990,https://boxd.it/26Yu,
-212,Mahal,1949,https://boxd.it/7BgI,
-213,Morgiana,1972,https://boxd.it/x9Y,
-214,Wagon Master,1950,https://boxd.it/18wU,
-215,Tenebre,1982,https://boxd.it/1mRM,
-216,Margot at the Wedding,2007,https://boxd.it/1OX4,
-217,Ishtar,1987,https://boxd.it/1Rny,
-218,Moonstruck,1987,https://boxd.it/27zg,
-219,Drop Dead Gorgeous,1999,https://boxd.it/1W8e,
-220,Airplane!,1980,https://boxd.it/29yu,
-221,Nashville,1975,https://boxd.it/25GE,
-222,"Paris, Texas",1984,https://boxd.it/29Ts,
-223,China Girl,1987,https://boxd.it/Lhi,
-224,I Am Cuba,1964,https://boxd.it/1hUQ,
-225,Miami Vice,2006,https://boxd.it/2bbW,
-226,Manchester by the Sea,2016,https://boxd.it/b2L0,
-227,Hiroshima Mon Amour,1959,https://boxd.it/22WY,
-228,Casablanca,1942,https://boxd.it/2aG0,
-229,Matewan,1987,https://boxd.it/1xXQ,
-230,Picnic at Hanging Rock,1975,https://boxd.it/1UQe,
-231,Ikiru,1952,https://boxd.it/251c,
-232,Baby Doll,1956,https://boxd.it/11Hc,
-233,The Moon-Spinners,1964,https://boxd.it/W0C,
-234,Show Me Love,1998,https://boxd.it/1TmW,
-235,Chilly Scenes of Winter,1979,https://boxd.it/Xyq,
-236,Schoolgirls,2020,https://boxd.it/mWnK,
-237,I Do Not Care If We Go Down in History as Barbarians,2018,https://boxd.it/i4Ui,
-238,Dangerous Liaisons,1988,https://boxd.it/29r4,
-239,History Is Made at Night,1937,https://boxd.it/1i9Q,
-240,The Curious Case of Benjamin Button,2008,https://boxd.it/23Fk,
-241,Princess Cyd,2017,https://boxd.it/gewQ,
-242,Unconquered,1947,https://boxd.it/2oUq,
-243,Abraham's Valley,1993,https://boxd.it/3DBA,
-244,My Night at Maud's,1969,https://boxd.it/Hwo,
-245,The Sugarland Express,1974,https://boxd.it/23la,
-246,In a Lonely Place,1950,https://boxd.it/1JgO,
-247,All About Lily Chou-Chou,2001,https://boxd.it/1JP0,
-248,Anna Karenina,2012,https://boxd.it/3lyy,
-249,Forbidden Planet,1956,https://boxd.it/29vK,
-250,Flowers of Shanghai,1998,https://boxd.it/Omq,
-251,Dragon Inn,1967,https://boxd.it/3xGa,
-252,"Goodbye, Dragon Inn",2003,https://boxd.it/oFG,
-253,Moonrise,1948,https://boxd.it/1pGW,
-254,Knights of the Teutonic Order,1960,https://boxd.it/27C,
-255,The Last Wave,1977,https://boxd.it/2oOM,
-256,The French Connection,1971,https://boxd.it/296g,
-257,French Connection II,1975,https://boxd.it/1VA2,
-258,Clemency,2019,https://boxd.it/kIko,
-259,Om Shanti Om,2007,https://boxd.it/20zy,
-260,The Secret Garden,1993,https://boxd.it/1Uim,
-261,Bonnie and Clyde,1967,https://boxd.it/2ajg,
-262,36 Fillette,1988,https://boxd.it/2aky,
-263,"Cornbread, Earl and Me",1975,https://boxd.it/17B0,
-264,The Ring,2002,https://boxd.it/2a70,
-265,Summertime,1955,https://boxd.it/DPw,
-266,Still Walking,2008,https://boxd.it/1wvm,
-267,Dark Passage,1947,https://boxd.it/1Ky0,
-268,Too Late Blues,1961,https://boxd.it/2BQ2,
-269,A Serious Man,2009,https://boxd.it/1RFW,
-270,Master and Commander: The Far Side of the World,2003,https://boxd.it/200S,
-271,Late Spring,1949,https://boxd.it/1DkK,
-272,Early Summer,1951,https://boxd.it/E4G,
-273,High Tide,1987,https://boxd.it/EKs,
-274,Lilya 4-ever,2002,https://boxd.it/1SyW,
-275,Dead Mountaineer's Hotel,1979,https://boxd.it/M16,
-276,Blue Collar,1978,https://boxd.it/1Nhm,
-277,Metropolitan,1990,https://boxd.it/1Mku,
-278,Taking Off,1971,https://boxd.it/hnq,
-279,The Sweet Hereafter,1997,https://boxd.it/1WNm,
-280,Madeline's Madeline,2018,https://boxd.it/gNmw,
-281,Rocky,1976,https://boxd.it/28Uk,
-282,Duelle,1976,https://boxd.it/2WK,
-283,Intruder in the Dust,1949,https://boxd.it/2OnM,
-284,Figures in a Landscape,1970,https://boxd.it/3D0k,
-285,Once Upon a Time in the West,1968,https://boxd.it/2az4,
-286,Terms of Endearment,1983,https://boxd.it/1ULo,
-287,The Docks of New York,1928,https://boxd.it/29mS,
-288,Whiplash,2014,https://boxd.it/7bQA,
-289,The Cranes Are Flying,1957,https://boxd.it/169Y,
-290,The Virgin Suicides,1999,https://boxd.it/28JG,
-291,Ali: Fear Eats the Soul,1974,https://boxd.it/2aRi,
-292,Eastern Promises,2007,https://boxd.it/275q,
-293,Vengeance Is Mine,1984,https://boxd.it/gvAU,
-294,Spacked Out,2000,https://boxd.it/6uHq,
-295,That Thing You Do!,1996,https://boxd.it/1Yig,
-296,Arrival,2016,https://boxd.it/aNGk,
-297,Passion Fish,1992,https://boxd.it/YzY,
-298,Police Story,1985,https://boxd.it/1Zhe,
-299,Detour,1945,https://boxd.it/1DB2,
-300,Vertigo,1958,https://boxd.it/2apI,
-301,Jaws,1975,https://boxd.it/2a5e,
-302,Miss and the Doctors,2013,https://boxd.it/68XQ,
-303,Until They Sail,1957,https://boxd.it/3Fsq,
-304,Body Heat,1981,https://boxd.it/1O9S,
-305,The Bitter Stems,1956,https://boxd.it/5Cxm,
-306,Malcolm X,1992,https://boxd.it/27WE,
-307,My Reputation,1946,https://boxd.it/4436,
-308,The Loneliest Planet,2011,https://boxd.it/2SQS,
-309,The Sign of the Cross,1932,https://boxd.it/EuO,
-310,Such Good Friends,1971,https://boxd.it/3WJ4,
-311,The Godfather,1972,https://boxd.it/2aNK,
-312,The Godfather Part II,1974,https://boxd.it/2aNq,
-313,The Godfather Part III,1990,https://boxd.it/2aN6,
-314,The Fugitive,1993,https://boxd.it/230G,
-315,Cutter's Way,1981,https://boxd.it/1iKW,
-316,Girlfight,2000,https://boxd.it/1FfM,
-317,Birth,2004,https://boxd.it/1VvQ,
-318,The Marriage of Maria Braun,1979,https://boxd.it/29Su,
-319,Casual Sex?,1988,https://boxd.it/1dBq,
-320,Remember the Night,1940,https://boxd.it/1n50,
-321,Bulworth,1998,https://boxd.it/1YE2,
-322,Clearcut,1991,https://boxd.it/3Sqi,
-323,Three Days of the Condor,1975,https://boxd.it/1SF4,
-324,Branded to Kill,1967,https://boxd.it/1HSQ,
-325,Chuck & Buck,2000,https://boxd.it/RPA,
-326,Cabaret,1972,https://boxd.it/1Vpe,
-327,Singin' in the Rain,1952,https://boxd.it/29oY,
-328,Day of Wrath,1943,https://boxd.it/ZtM,
-329,Speaking Parts,1989,https://boxd.it/31G8,
-330,The Piano,1993,https://boxd.it/29Kq,
-331,Dead of Night,1945,https://boxd.it/1PQI,
-332,Next of Kin,1982,https://boxd.it/2ZQg,
-333,Confessions of an Opium Eater,1962,https://boxd.it/iRw,
-334,Who Can Kill a Child?,1976,https://boxd.it/TGA,
-335,Scream,1996,https://boxd.it/24EC,
-336,The Remains of the Day,1993,https://boxd.it/291A,
-337,Violation,2020,https://boxd.it/rk2O,
-338,The 39 Steps,1935,https://boxd.it/2aKc,
-339,Dead Again,1991,https://boxd.it/1TIe,
-340,Career Girls,1997,https://boxd.it/G0w,
-341,3:10 to Yuma,1957,https://boxd.it/1OCU,
-342,'Round Midnight,1986,https://boxd.it/1NC0,
-343,Eastern Condors,1987,https://boxd.it/2c48,
-344,Shoot the Moon,1982,https://boxd.it/yaS,
-345,The World of Us,2016,https://boxd.it/dpeC,
-346,The Crowd,1928,https://boxd.it/25Q0,
-347,Sorcerer,1977,https://boxd.it/14J6,
-348,Ace in the Hole,1951,https://boxd.it/1vXk,
-349,Au Hasard Balthazar,1966,https://boxd.it/1E3g,
-350,Munich,2005,https://boxd.it/2a0e,
-351,Baby Face,1933,https://boxd.it/1rMs,
-352,Forty Guns,1957,https://boxd.it/1NhG,
-353,The Furies,1950,https://boxd.it/2lg8,
-354,There's Always Tomorrow,1956,https://boxd.it/17S6,
-355,The Incredibles,2004,https://boxd.it/1XLm,
-356,Ratatouille,2007,https://boxd.it/27ww,
-357,Little Darlings,1980,https://boxd.it/1rLa,
-358,Tokyo Fist,1995,https://boxd.it/Z2m,
-359,Little Solange,2021,https://boxd.it/s6sq,
-360,Petite Maman,2021,https://boxd.it/s6je,
+1,The Innocents,1961,https://boxd.it/1KeY,"<b>001</b><i> The Innocents (1961), Jack Clayton, United Kingdom</i>
+
+February 2023"
+2,Crossing Delancey,1988,https://boxd.it/1rTS,"<b>002</b><i> Crossing Delancey (1988), Joan Micklin Silver, United States</i>
+
+February 2023"
+3,Dim Sum: A Little Bit of Heart,1985,https://boxd.it/4mU8,"<b>003</b><i> Dim Sum: A Little Bit of Heart (1985), Wayne Wang, United States</i>
+
+February 2023"
+4,Silvia Prieto,1999,https://boxd.it/EI2,"<b>004</b><i> Silvia Prieto (1999), Martin Rejtman, Argentina</i>
+
+February 2023"
+5,The Great Silence,1968,https://boxd.it/1ZlA,"<b>005</b><i> The Great Silence (1968), Sergio Corbucci, Italy</i>
+
+February 2023"
+6,Girl 6,1996,https://boxd.it/cXS,"<b>006</b><i> Girl 6 (1996), Spike Lee, United States</i>
+
+February 2023"
+7,Humanity and Paper Balloons,1937,https://boxd.it/2XQI,"<b>007</b><i> Humanity and Paper Balloons (1937), Sadao Yamanaka, Japan</i>
+
+February 2023"
+8,The Heartbreak Kid,1972,https://boxd.it/11aM,"<b>008</b><i> The Heartbreak Kid (1972), Elaine May, United States</i>
+
+February 2023"
+9,Margaret,2011,https://boxd.it/2kbm,"<b>009</b><i> Maragaret (2011), Kenneth Lonergan, United States</i>
+
+February 2023"
+10,M,1931,https://boxd.it/29vq,"<b>010</b><i> M (1931), Fritz Lang, Germany</i>
+
+February 2023"
+11,Love Letter,1995,https://boxd.it/LMA,"<b>011</b><i> Love Letter (1995), Shunji Iwai, Japan</i>
+
+March 2023"
+12,Deep End,1970,https://boxd.it/i8m,"<b>012</b><i> Deep End (1970), Jerzy Skolimowski, United Kingdom</i>
+
+March 2023"
+13,The Lovers on the Bridge,1991,https://boxd.it/26li,"<b>013</b><i> The Lovers on the Bridge (1991), Leos Carax, France</i>
+
+March 2023"
+14,Within Our Gates,1920,https://boxd.it/2GIC,"<b>014</b><i> Within Our Gates (1920), Oscar Micheaux, United States</i>
+
+March 2023"
+15,News from Home,1976,https://boxd.it/34TO,"<b>015</b><i> News From Home (1976), Chantal Akerman, Belgium</i>
+
+March 2023"
+16,Happy-Go-Lucky,2008,https://boxd.it/1W68,"<b>016</b><i> Happy-Go-Lucky (2008), Mike Leigh, United Kingdom</i>
+
+March 2023"
+17,The Milky Way,1969,https://boxd.it/1cVk,"<b>017</b><i> The Milky Way (1969), Luis Bunuel, France</i>
+
+March 2023"
+18,Young Mr. Lincoln,1939,https://boxd.it/Tsy,"<b>018</b><i> Young Mr. Lincoln (1939), John Ford, United States</i>
+
+March 2023"
+19,"Night Is Short, Walk On Girl",2017,https://boxd.it/ffwA,"<b>019</b><i> Night Is Short, Walk on Girl (2017), Masaaki Yuasa, Japan</i>
+
+March 2023"
+20,His Kind of Woman,1951,https://boxd.it/1f36,"<b>020</b><i> His Kind of Woman (1951), Richard Fleischer, John Farrow, United States</i>
+
+March 2023"
+21,A Brighter Summer Day,1991,https://boxd.it/1Luy,"<b>021</b> <i> A Brighter Summer Day (1991), Edward Yang, Taiwan</i>
+
+April 2023"
+22,Fiddler on the Roof,1971,https://boxd.it/1Nle,"<b>022</b> <i> Fiddler on the Roof (1971), Norman Jewison, United States</i>
+
+April 2023"
+23,"Yes, Madam!",1985,https://boxd.it/13EE,"<b>023</b> <i>Yes, Madam! (1985), Cory Yuen, Hong Kong </i>
+
+April 2023"
+24,Marat/Sade,1967,https://boxd.it/Spe,"<b>024</b> <i>Marat/Sade (1967), Peter Brook, United Kingdom</i>
+
+April 2023"
+25,The Intruder,2004,https://boxd.it/LrM,"<b>025</b> <i>L'Intrus (2004), Claire Denis, France</i>
+
+April 2023"
+26,Unfaithfully Yours,1948,https://boxd.it/1g4Y,"<b>026</b> <i>Unfaithfully Yours (1948), Preston Sturges, United States</i>
+
+April 2023"
+27,Leave No Trace,2018,https://boxd.it/fMfM,"<b>027</b> <i>Leave No Trace (2018), Debra Granik, Canada</i>
+
+April 2023"
+28,He Who Gets Slapped,1924,https://boxd.it/1rDg,"<b>028</b> <i>He Who Gets Slapped (1924), Victor Sjöström, United States</b>"
+29,The Texas Chain Saw Massacre,1974,https://boxd.it/1lcS,"<b>029</b> <i>The Texas Chainsaw Massacre (1974), Tobe Hooper, United States</b>
+
+April 2023"
+30,Alexander Nevsky,1938,https://boxd.it/1WKC,"<b>030</b> <i>Alexander Nevsky (1938), Sergei Eisenstein, Dmitriy Vasilev, USSR</i>
+
+April 2023"
+31,Tokyo Sonata,2008,https://boxd.it/1ZxQ,"<b>031</b> <i>Tokyo Sonata (2008), Kiyoshi Kurosawa, Japan<i>
+
+May 2023"
+32,Manhunter,1986,https://boxd.it/1TOw,"<b>032</b> <i>Manhunter (1986), Michael Mann, United States</i>
+
+May 2023"
+33,The Color Wheel,2011,https://boxd.it/2V48,"<b>033</b> <i>The Color Wheel (2011), Alex Ross Perry, United States</i>
+
+May 2023"
+34,Day Night Day Night,2006,https://boxd.it/1OZO,"<b>034<b> <i> Day Night Day Night, Julia Loktev, United States </i>
+
+May 2023 "
+35,Psycho,1998,https://boxd.it/1Ugg,"<b>035</b> <i>Psycho (1998), Gus Van Sant, United States</i>
+
+May 2023"
+36,Psycho,1960,https://boxd.it/2ab2,"<b>036</b> <i>Psycho (1960), Alfred Hitchcock, United States</i>
+
+May 2023"
+37,The Chess Players,1977,https://boxd.it/2Oko,"<b>037</b> <i>The Chess Players, Satayajit Ray, India</i>
+
+May 2023"
+38,Brighton Rock,1948,https://boxd.it/1QhY,"<b>038</b> <i>Brighton Rock (1948), John Boulton, United Kingdom</i>
+
+May 2023"
+39,Rapid Fire,1992,https://boxd.it/1QI6,"<b>039</b> <i>Rapid Fire (1992), Dwight H. Little, United States</i>
+
+May 2023"
+40,Loulou,1980,https://boxd.it/13Jk,"<b>040</b> <i>Loulou (1980), Maurice Pialat, France</i>
+
+May 2023"
+41,Alice Doesn't Live Here Anymore,1974,https://boxd.it/1KIa,"<b>041</b> <i>Alice Doesn't Live Here Anymore (1974, Martin Scorsese, United States</i>
+
+June 2023"
+42,Piccadilly,1929,https://boxd.it/Cce,"<b>042</b> <i>Piccadilly (1929), E.A. Dupont, United Kingdom</i>
+
+June 2023"
+43,Cries and Whispers,1972,https://boxd.it/1WK8,"<b>043</b><i> Cries and Whispers (1972), Ingmar Bergman, Sweden</i>
+
+June 2023"
+44,Silence Has No Wings,1966,https://boxd.it/3xEo,"<b>044</b> <i>Silence Has No Wings (1966), Kazuo Kuroki, Japan</i>
+
+June 2023"
+45,Solaris,2002,https://boxd.it/27qS,"<b>045</b> <i>Solaris (2002), Steven Soderbergh, United States</i>"
+46,Mädchen in Uniform,1931,https://boxd.it/1Y8g,"<b>046</b> <i>Mädchen in Uniform, Carl Frolich, Leontine Sagan, Germany</i> 
+
+June 2023"
+47,Edward II,1991,https://boxd.it/TVA,"<b>047</b> <i>Edward II (1991), Derek Jarman, United Kingdom</i>
+
+June 2023"
+48,Bound,1996,https://boxd.it/1Z1g,"<b>048</b> <i>Bound (1996), Lily Wachowski, Lana Wachowski, United States</i>
+
+June 2023"
+49,Je Tu Il Elle,1974,https://boxd.it/3gWK,"<b>049</b> <i>Je, Tu, Il, Elle (1974), Chantal Akerman, Belgium</i>
+
+June 2023 "
+50,Tropical Malady,2004,https://boxd.it/1TCA,"<b>050</b> <i>Tropical Malady (2004), Apichatpong Weerasethakul, Thailand</i> 
+
+June 2023"
+51,Nanook of the North,1922,https://boxd.it/29Rc,"<b>051</b> <i>Nanook of the North(1922), Robert Flaherty, United States </i>
+
+July 2023"
+52,A Star Is Born,1954,https://boxd.it/25I6,"<b>052</b> <i>A Star Is Born (1954), George Cukor, United States</i>
+
+July 2023"
+53,Asako I & II,2018,https://boxd.it/hyNk,"<b>053</b> <i>Asako I & II (2018), Spike Lee, Japan </i>
+
+July 2023"
+54,Lianna,1983,https://boxd.it/2I5i,"<b>054</b> <i>Lianna(1983), John Sayles, United States </i>
+
+July 2023"
+55,Baby It's You,1983,https://boxd.it/XJI,"<b>054</b> <i>Lianna(1983), John Sayles, United States </i>
+
+July 2023"
+56,The Set-Up,1949,https://boxd.it/1IYA,"<b>056</b> <i>The Set-Up (1949), Robert Wise, United States </i>
+
+July 2023"
+57,The Girls,1968,https://boxd.it/4mK8,"<b>057</b> <i>Flickorna (1983), Mai Zetterling, Sweden </i>
+
+July 2023"
+58,Life Is Sweet,1990,https://boxd.it/19GQ,"<b>058</b> <i>Life is Sweet (1990), Mike Leigh, United Kingdom </i>
+
+July 2023"
+59,Terror Train,1980,https://boxd.it/10uQ,"<b>059</b> <i>Terror Train (1980), Roger Spottiswoode, Canada</i>
+
+July 2023"
+60,Columbus,2017,https://boxd.it/eCuA,"<b>060</b> <i>Columbus (2017), Kogonada, United States </i>
+
+July 2023"
+61,Grand Prix,1966,https://boxd.it/1DzK,"<b>061</b> <i>Grand Prix (1966), John Frankenheimer, United States </i>
+
+August 2023"
+62,Phoenix,2014,https://boxd.it/7u46,"<b>062</b> <i>Phoenix (2014), Christian Petzold, Germany </i>
+
+August 2023"
+63,The Hero,1966,https://boxd.it/3MJI,"<b>063</b> <i>The Hero (1966), Satayajit Ray, India </i>
+
+August 2023"
+64,Safety Last!,1923,https://boxd.it/1AkW,"<b>064</b> <i>Safety Last! (1923), Fred C. Newmeyer, Sam Taylor, United States </i>
+
+August 2023"
+65,"Right Now, Wrong Then",2015,https://boxd.it/bWs4,"<b>062</b> <i>Right Now, Wrong Then (2015), Hong Sang-Soo, South Korea
+
+August 2023"
+66,Remember My Name,1978,https://boxd.it/2XKA,"<b>066</b> <i>Remember My Name (1978), Alan Rudolph, United States </i>
+
+August 2023"
+67,The Daytrippers,1996,https://boxd.it/F9i,"<b>067</b> <i>The Daytrippers (1996), Greg Mottola, Canada </i>
+
+August 2023"
+68,Rififi,1955,https://boxd.it/29f8,"<b>062</b> <i>Rififi (1955), Jules Dassin, France </i>
+
+August 2023"
+69,Midnight,1939,https://boxd.it/1hXK,"<b>063</b> <i>Midnight (1939), Mitchell Liesen, United States </i>
+
+August 2023"
+70,Love & Basketball,2000,https://boxd.it/1Nu6,"<b>070</b> <i>Love & Basketball (2000), Gina Prince-Bythewood, United States </i>
+
+August 2023"
+71,Moving,1993,https://boxd.it/3RcO,"<b>071</b> <i>Moving (1993), Shinji Sōmai, Japan </i>
+
+September 2023"
+72,Killer Joe,2011,https://boxd.it/2vtQ,"<b>072</b> <i>Killer Joe (2011), William Friedkin, United States </i>
+
+September 2023"
+73,Le Notti Bianche,1957,https://boxd.it/V0G,"<b>073</b> <i>Le Notti Bianche (1957), Luchino Visconti, Italy </i>
+
+September 2023"
+74,Manakamana,2013,https://boxd.it/6mVO,"<b>074</b> <i>Manakamana (2013), Stephanie Spray, Pacho Velez, Nepal </i>
+
+September 2023"
+75,The Wind Rises,2013,https://boxd.it/4JQS,"<b>075</b> <i>The Wind Rises (2013), Hayao Miyazaki, Japan </i>
+
+September 2023"
+76,Alligator,1980,https://boxd.it/1fkm,"<b>076</b> <i>Alligator (1980), Lewis Teague, United States </i>
+
+September 2023"
+77,A Place in the Sun,1951,https://boxd.it/1vlg,"<b>077</b> <i>A Place in the Sun (1951), George Stevens, United States </i>
+
+September 2023"
+78,The American Friend,1977,https://boxd.it/1UkC,"<b>078</b> <i>The American Friend (1977), Wim Wenders, Germany </i>
+September 2023"
+79,Putney Swope,1969,https://boxd.it/1gV4,"<b>079</b> <i>Putney Swope (1969), Robert Downey Sr., United States </i>
+
+September 2023"
+80,The Adventures of Robin Hood,1938,https://boxd.it/1V6G,"<b>080</b> <i>The Adventures of Robin Hood (1939), Michael Curtiz, William Keighley, United Kingdom </i>
+
+September 2023"
+81,The Passion of Joan of Arc,1928,https://boxd.it/29DO,"<b>081</b> <i>The Passion of Joan of Arc (1928), Carl Theodor Dreyer, France</i>
+
+October 2023"
+82,Autopsy,1975,https://boxd.it/3kAe,"<b>082</b> <i>Autopsy (1975), Armando Crispino, Italy</i>
+
+October 2023"
+83,Love Is Strange,2014,https://boxd.it/7aRW,"<b>083</b> <i>Love Is Strange (2014), Ira Sachs, United States</i>
+
+October 2023"
+84,Finis Terræ,1929,https://boxd.it/4IxA,"<b>084</b> <i>Finis Terrae (1929), Jean Epstein, France</i>
+
+October 2023"
+85,This Is Not a Film,2011,https://boxd.it/2W4o,"<b>085</b> <i>This Is Not a Film (2011), Jafar Panhi, Mojtaba Mirtahmasb, Iran</i>
+
+October 2023"
+86,The Ice Storm,1997,https://boxd.it/2c6I,"<b>086</b> <i>The Ice Storm (1997), Ang Lee, United States</i>
+
+October 2023"
+87,The Flowers of St. Francis,1950,https://boxd.it/oTS,"<b>087</b> <i>The Flowers of St. Francis (1950), Roberto Rossellini, Italy</i>
+
+October 2023"
+88,Irma Vep,1996,https://boxd.it/1vYs,"<b>088</b> <i>Irma Vep (1996), Olivier Assayas, France</i>
+
+October 2023"
+89,Frankenstein,1931,https://boxd.it/25Te,"<b>089</b> <i>Frankenstein (1931), James Whale, United States</i>
+
+October 2023"
+90,Bride of Frankenstein,1935,https://boxd.it/2aPc,"<b>090</b> <i>The Bride of Frankenstein (1935), James Whale, United States</i>
+
+October 2023"
+91,King Kong,1933,https://boxd.it/2aMM,"<b>091</b> <i>King Kong (1933), Merian C. Cooper, Ernest B. Schoedsack, United States</i>
+
+November 2023"
+92,"Lust, Caution",2007,https://boxd.it/244k,"<b>092</b> <i>Lust, Caution (2007), Ang Lee, Taiwan</i>
+
+November 2023"
+93,Broken Lullaby,1932,https://boxd.it/kWI,"<b>093</b> <i>Broken Lullaby (1932), Ernst Lubitsch, United States</i>
+
+November 2023"
+94,The Bloodiest,2005,https://boxd.it/77Ru,"<b>094</b> <i>Saignantes (2005), Jean-Pierre Bekolo, Cameroon</i>
+
+November 2023"
+95,Forever Amber,1947,https://boxd.it/3yyQ,"<b>095</b> <i>Forever Amber (1947), Otto Preminger, United States</i>
+
+November 2023"
+96,The House of Mirth,2000,https://boxd.it/1vEC,"<b>096</b> <i>The House of Mirth (2000), Terence Davies, United Kingdom</i>
+
+November 2023"
+97,La Cérémonie,1995,https://boxd.it/287C,"<b>097</b> <i>La Cérémonie (1995), Claude Chabrol, France</i>
+
+November 2023"
+98,Silence,2016,https://boxd.it/2cAo,"<b>099</b> <i>Silence (2016), Martin Scorsese, United States</i>
+
+November 2023"
+99,Personal Best,1982,https://boxd.it/1rpo,"<b>098</b> <i>Personal Best (1982), Robert Towne, United States</i>
+
+November 2023"
+100,Godzilla,1954,https://boxd.it/28kc,"<b>100</b> <i>Godzilla (1954), Ishirō Honda, Japan</i>
+
+November 2023"
+101,A Woman Under the Influence,1974,https://boxd.it/1myg,"<b>101</b> <i>A Woman Under the Influence (1974), John Cassavetes, United States</i>
+
+December 2023"
+102,The Lion in Winter,1968,https://boxd.it/1FVe,"<b>102</b> <i>The Lion in Winter (1968), Anthony Harvey, United Kingdom</i>
+
+December 2023"
+103,The Constant Factor,1980,https://boxd.it/5YuO,"<b>102</b> <i>The Constant Factor (1980), Krzysztof Zanussi, Poland</i>
+
+December 2023"
+104,Two Monks,1934,https://boxd.it/5fTk,"<b>104</b> <i>Dos Monjes (1934), Juan Bustillo Oro, Mexico</i>
+
+December 2023"
+105,The Verdict,1982,https://boxd.it/1y3Y,"<b>105</b> <i>The Verdict (1982), Sidney Lumet, United States</i>
+
+December 2023"
+106,The Last Days of Disco,1998,https://boxd.it/1JpQ,"<b>106</b> <i>The Last Days of Disco (1998), Whit Stilman, United Kingdom</i>
+
+December 2023"
+107,Mirch Masala,1987,https://boxd.it/6R0E,"<b>107</b> <i>Mirch Masala (1987), Ketan Mehta, India</i>
+
+December 2023"
+108,The New World,2005,https://boxd.it/1TVW,"<b>108</b> <i>The New World (2005), Terrence Malick, United States</i>
+
+December 2023"
+109,The Quiet Man,1952,https://boxd.it/25Iq,"<b>109</b> <i>The Quiet Man (1952), John Ford, United Kingdom</i>
+
+December 2023"
+110,Sweet Bean,2015,https://boxd.it/alaK,"<b>110</b> <i>An (2015), Naomi Kawase, Japan</i>
+
+December 2023"
+111,This Transient Life,1970,https://boxd.it/3y8S,"<b>111</b> <i>This Transient Life (1970),Akio Jissoji, Japan</i>
+
+January 2024"
+112,Mistress America,2015,https://boxd.it/9UfS,"<b>112</b> <i>Mistress America (2015),Noah Baumbach, United States</i>
+
+January 2024"
+113,The Straight Story,1999,https://boxd.it/2ass,"<b>113</b> <i>The Straight Story (1999), David Lynch, United States</i>
+
+January 2024"
+114,Make Way for Tomorrow,1937,https://boxd.it/10hC,"<b>114</b> <i>Make Way for Tomorrow (1937),Leo McCrarey, United States</i>
+
+January 2024"
+115,Baby Boy,2001,https://boxd.it/1KGS,"<b>115</b> <i>Baby Boy (2001),John Singleton, United States</i>
+
+January 2024"
+116,Poetic Justice,1993,https://boxd.it/20og,"<b>116</b> <i>Poetic Justice (1993),John Singleton, United States</i>
+
+January 2024"
+117,"The Good, the Bad and the Ugly",1966,https://boxd.it/2ape,"<b>117</b> <i>The Good, The Bad and the Ugly (1966), Segio Leone, Italy</i>
+
+January 2024"
+118,Strange Days,1995,https://boxd.it/2aGO,"<b>118</b> <i> Strange Days (1995),Kathryn Bigelow, United States</i>
+
+January 2024"
+119,The Taking of Pelham One Two Three,1974,https://boxd.it/20lG,"<b>119</b> <i>The Taking of Pelham One Two Three (1974), Joseph Sargent, United States</i>
+
+January 2024"
+120,Secret Sunshine,2007,https://boxd.it/27CY,"<b>120</b> <i>Secret Sunshine (2007),Lee Chang-dong, South Korea</i>
+
+January 2024"
+121,Love & Pop,1998,https://boxd.it/2sv0,"<b>121</b> <i>Love & Pop (1998), Hideaki Anno, Japan</i>
+
+February 2024"
+122,Bob & Carol & Ted & Alice,1969,https://boxd.it/1tIM,"<b>122</b> <i>Bob & Carol & Ted & Alice (1969), Paul Mazursky, United States</i>
+
+February 2024"
+123,Bamboozled,2000,https://boxd.it/1xfa,"<b>123</b> <i>Bamboozled (2000), Spike Lee, United States</i>
+
+February 2024"
+124,Le Samouraï,1967,https://boxd.it/22ZI,"<b>124</b> <i>Le Samouraï (1967), Jean-Pierre Melville, France</i>
+
+February 2024"
+125,Down by Law,1986,https://boxd.it/28CA,"<b>125</b> <i>Down by Law (1986), Jim Jarmusch, United States</i>
+
+February 2024"
+126,Exotica,1994,https://boxd.it/1DXW,"<b>126</b> <i> Exotica (1994), Atom Egoyan, Canada</i>
+
+February 2024"
+127,Silent Light,2007,https://boxd.it/27Ds,"<b>127</b> <i> Silent Light (2007), Carlos Reygadas, Mexico</i>
+
+February 2024"
+128,Chameleon Street,1989,https://boxd.it/3v94,"<b>128</b> <i>Chameleon Street (1989), Wendell B. Harris Jr., United States</i>
+
+February 2024"
+129,Entre Nous,1983,https://boxd.it/XIU,"<b>129</b> <i>Entre Nous (1983), Diane Kurys, France</i>
+
+February 2024"
+130,I Am a Fugitive from a Chain Gang,1932,https://boxd.it/1mNg,"<b>130</b> <i>I Am a Fugitive from a Chain Gang (1932), Mervyn LeRoy, United States</i>
+
+February 2024"
+131,"Léon Morin, Priest",1961,https://boxd.it/5O0,"<b>131</b> <i>Leon Morin, Priest (1961), Jean-Pierre Melville, France</i>
+
+March 2024"
+132,"They Shoot Horses, Don't They?",1969,https://boxd.it/1q9u,"<b>132</b> <i>They Shoot Horses, Don't They? (1969), Sydney Pollack, United States</i>
+March 2024"
+133,Romancing in Thin Air,2012,https://boxd.it/347K,"<b>133</b> <i>Romancing in Thin Air (2012), Johnnie To, Hong Kong</i>
+
+March 2024"
+134,Black Sunday,1977,https://boxd.it/DNU,"<b>134</b> <i>Black Sunday (1977), John Frankenheimer, United States</i>
+
+March 2024"
+135,Went the Day Well?,1942,https://boxd.it/1yF4,"<b>135</b> <i>Went the Day Well? (1942), Alberto Cavalcanti, United Kingdom</i>
+
+March 2024"
+136,Invasion of the Body Snatchers,1956,https://boxd.it/1TAa,"<b>136</b> <i>Invasion of the Body Snatchers (1956), Don Siegel, United States</i>
+
+March 2024"
+137,Howards End,1992,https://boxd.it/20nW,"<b>137</b> <i>Howard's End (1992), James Ivory, United Kingdom</i>
+
+March 2024"
+138,Atonement,2007,https://boxd.it/24ui,"<b>138</b> <i>Atonement (2007), Joe Wright, United Kingdom</i>
+
+March 2024"
+139,Through a Glass Darkly,1961,https://boxd.it/1TrW,"<b>139</b> <i>Through a Glass Darkly (1961), Ingmar Bergman, Sweden</i>
+
+March 2024"
+140,A Page of Madness,1926,https://boxd.it/3i2u,"<b>140</b> <i>A Page of Madness (1926), Teinosuke Kinugasa, Japan</i>
+
+March 2024"
+141,The Conversation,1974,https://boxd.it/2a38,"<b>141</b> <i>The Conversation (1974), Francis Ford Coppola, United States</i>
+
+April 2024"
+142,The Blot,1921,https://boxd.it/4TIO,"<b>142</b> <i>The Blot (1921), Lois Weber, United States</i>
+
+April 2024"
+143,August in the Water,1995,https://boxd.it/3xQE,"<b>143</b> <i>August in the Water (1995), Gakuryu Ishii, Japan</i>
+
+April 2024"
+144,Melvin and Howard,1980,https://boxd.it/15ey,"<b>144</b> <i>Melvin and Howard (1980), Jonathan Demme, United States</i>
+
+April 2024"
+145,Mulholland Drive,2001,https://boxd.it/297o,"<b>145</b> <i>Mulholland Dr (2001), David Lynch, United States</i>
+
+April 2024"
+146,Being There,1979,https://boxd.it/1WxS,"<b>146</b> <i>Being There (1979), Hal Ashby, United States</i>
+
+April 2024"
+147,Pépé le Moko,1937,https://boxd.it/1ufQ,"<b>147</b> <i>Pépé le Moko (1937), Julien Duvivier, France</i>
+
+April 2024"
+148,Personal Shopper,2016,https://boxd.it/bkGM,"<b>148</b> <i>Personal Shopper (2016), Olivier Assayas, France</i>
+
+April 2024"
+149,The Blazing Sun,1954,https://boxd.it/60c8,"<b>149</b> <i>The Blazing Sun (1954), Youssef Chahine, Egypt</i>
+
+April 2024"
+150,School of Rock,2003,https://boxd.it/28xK,"<b>150</b> <i>School of Rock (2003), Richard Linklater, United States</i>
+
+April 2024"
+151,Medium Cool,1969,https://boxd.it/WsQ,"<b>151</b> <i>Medium Cool (1969), Haskell Wexler, United States</i>
+
+May 2024"
+152,Throne of Blood,1957,https://boxd.it/251w,"<b>152</b> <i>Throne of Blood (1957), Akira Kurosawa, Japan</i>
+
+May 2024"
+153,The Sun Shines Bright,1953,https://boxd.it/3GTi,"<b>153</b> <i>The Sun Shines Bright (1953), John Ford, United States</i>
+
+May 2024"
+154,The Wedding Banquet,1993,https://boxd.it/1Z82,"<b>154</b> <i>The Wedding Banquet (1953), Ang Lee, Taiwan</i>
+
+May 2024"
+155,Vagabond,1985,https://boxd.it/T0u,"<b>155</b> <i>Vagabond (1985),  Agnès Varda, France</i>
+
+May 2024"
+156,Walking and Talking,1996,https://boxd.it/ELq,"<b>156</b> <i>Walking and Talking (1996),  Nicole Holofcener, United States</i>
+
+May 2024"
+157,House of Tolerance,2011,https://boxd.it/2Yjq,"<b>157</b> <i>House of Tolerance (2011),  Bertrand Bonello, France</i>
+
+May 2024"
+158,Meet Me in St. Louis,1944,https://boxd.it/29j0,"<b>158</b> <i>Meet Me in St. Louis (1944),  Vincente Minelli, United States</i>
+
+May 2024"
+159,Pharaoh,1966,https://boxd.it/23rC,"<b>155</b> <i>Pharaoh (1966),  Jerzy Kawalerowicz, Poland</i>
+
+May 2024"
+160,The Fog,1980,https://boxd.it/29Cc,"<b>160</b> <i>The Fog (1980), John Carpenter, United States</i>
+
+May 2024"
+161,Alma's Rainbow,1994,https://boxd.it/8yF8,"<b>161</b> <i>Alma's Rainbow (1994), Ayoka Chenzira, United States</i>
+
+June 2024"
+162,Dilwale Dulhania Le Jayenge,1995,https://boxd.it/1F9k,"<b>162</b> <i>Dilwale Dulhania Le Jayenge (1995), Aditya Chopra, India</i>
+
+June 2024"
+163,Funeral Parade of Roses,1969,https://boxd.it/28Cg,"<b>163</b> <i>Funeral Parade of Roses (1969), Toshio Matsumoto, Japan</i>
+
+June 2024"
+164,Puzzle of a Downfall Child,1970,https://boxd.it/3fyM,"<b>164</b> <i>Puzzle of a Downfall Child (1970), Jerry Schatzberg, United States</i>
+
+June 2024"
+165,The Decameron,1971,https://boxd.it/1fdq,"<b>165</b> <i>The Decameron (1971), Pier Paolo Pasolini, Italy</i>
+
+June 2024"
+166,Barry Lyndon,1975,https://boxd.it/25A2,"<b>166</b> <i>Barry Lyndon (1975), Stanley Kubrick, United Kingdom</i>
+
+June 2024"
+167,Fail Safe,1964,https://boxd.it/2afS,"<b>167</b> <i>Fail Safe (1964), Sidney Lumet, United States</i>
+
+June 2024"
+168,First Reformed,2017,https://boxd.it/go9C,"<b>168</b> <i>First Reformed (2017), Paul Schrader, United States</i>
+
+June 2024"
+169,The Nun,1966,https://boxd.it/WbK,"<b>169</b> <i>La Religieuse (1966), Jacques Rivette, France</i>
+
+June 2024"
+170,The Miracle of Morgan's Creek,1943,https://boxd.it/VO2,"<b>170</b> <i>The Miracle of Morgan's Creek (1943), Preston Sturges, United States</i>
+
+June 2024"
+171,Three Colours: Blue,1993,https://boxd.it/2b7K,"<b>171</b> <i>Three Colours: Blue (1993), Krzysztof Kieślowski, France</i>
+
+July 2024"
+172,Three Colours: Red,1994,https://boxd.it/2b7q,"<b>172</b> <i>Three Colours: Red (1994), Krzysztof Kieślowski, France</i>
+
+July 2024"
+173,Three Colours: White,1994,https://boxd.it/2b7A,"<b>173</b> <i>Three Colours: White (1994), Krzysztof Kieślowski, France</i>
+
+July 2024"
+174,Nadja,1994,https://boxd.it/1dF8,"<b>174</b> <i>Nadja(1994),Michael Almareyda, United States</i>
+
+July 2024"
+175,Grease,1978,https://boxd.it/29YW,"<b>175</b> <i>Grease (1978), Randal Kleiser, United States</i>
+
+July 2024"
+176,The Ascent,1977,https://boxd.it/Eew,"<b>176</b> <i>The Ascent (1977), Larisa Shepitko, Soviet Union</i>
+
+July 2024"
+177,Morocco,1930,https://boxd.it/Woa,"<b>177</b> <i>Morocco (1930),Josef von Stenberg, United States</i>
+
+July 2024"
+178,The Effect of Gamma Rays on Man-in-the-Moon Marigolds,1972,https://boxd.it/38sM,"<b>178</b> <i>The Effect of Gamma Rays on Man-in-the-Moon Marigolds (1972), Paul Newman, United States</i>
+
+July 2024"
+179,El Dorado,1966,https://boxd.it/21qM,"<b>179</b> <i>El Dorado (1966), Howard Hawks, United States</i>
+
+July 2024"
+180,Don't Look Now,1973,https://boxd.it/29fC,"<b>180</b> <i>Don't Look Now (1973), Nicholas Roeg, United States</i>
+
+July 2024"
+181,To Be or Not to Be,1942,https://boxd.it/2aTy,"<b>181</b> <i>To Be or Not to Be (1942), Ernst Lubitsch, United States</i>
+
+August 2024"
+182,Night Moves,1975,https://boxd.it/1hRM,"<b>182</b> <i>Night Moves (1975), Arthur Penn, United States</i>
+
+August 2024"
+183,Funny Games,1997,https://boxd.it/1WKM,"<b>183</b> <i>Funny Games (1997), Michael Haneke, Austria</i>
+
+August 2024"
+184,The Harder They Fall,1956,https://boxd.it/1pnK,"<b>184</b> <i>The Harder They Fall (1956), Mark Robson, United States</i>
+
+August 2024"
+185,Popeye,1980,https://boxd.it/1U6q,"<b>185</b> <i>Popeye (1980), Robert Altman, United States</i>
+
+August 2024"
+186,Just Another Girl on the I.R.T.,1992,https://boxd.it/45gq,"<b>186</b> <i>Just Another Girl on the I.R.T. (1992), Leslie Harris, United States</i>
+
+August 2024"
+187,The Assistant,2019,https://boxd.it/neWo,"<b>187</b> <i>The Assistant (2019), Kitty Green, United States</i>
+
+August 2024"
+188,The Cave of the Yellow Dog,2005,https://boxd.it/28Qs,"<b>188</b> <i>The Cave of the Yellow Dog (2005), Byambasuren Davaa, Mongolia</i>
+
+August 2024"
+189,The Gospel According to St. Matthew,1964,https://boxd.it/1y7c,"<b>189</b> <i>The Gospel According to St. Matthew (1964), Pier Paolo Pasolini, Italy</i>
+
+August 2024"
+190,Holiday,1938,https://boxd.it/1Ks2,"<b>190</b> <i>Holiday (1938), George Cukor, United States</i>
+
+August 2024"
+191,The Bridges of Madison County,1995,https://boxd.it/29Os,"<b>191</b> <i>The Bridges of Madison County (1995), Clint Eastwood, United States</i>
+
+September 2024"
+192,Enamorada,1946,https://boxd.it/3QiG,"<b>192</b> <i>Enamorada (1946), Emilio Fernandez, Mexico</i>
+
+September 2024"
+193,Foxfire,1996,https://boxd.it/1GJo,"<b>193</b> <i>Foxfire (1996), Annette Haywood-Carter, United States</i>
+
+September 2024"
+194,The Ox-Bow Incident,1943,https://boxd.it/29ai,"<b>194</b> <i>The Ox-Bow Incident (1943), William A. Wellman, United States</i>
+
+September 2024"
+195,Safe,1995,https://boxd.it/1gKU,"<b>195</b> <i>Safe (1995), Todd Haynes, United States</i>
+
+September 2024"
+196,The Battle of Algiers,1966,https://boxd.it/1IRY,"<b>196</b> <i>The Battle of Algiers (1966), Gillo Portecovo, Italy</i>
+
+September 2024"
+197,10 Things I Hate About You,1999,https://boxd.it/23AO,"<b>197</b> <i>10 Things I Hate About You (1999), Gil Junger, United States</i>
+
+September 2024"
+198,Opening Night,1977,https://boxd.it/1f4e,"<b>198</b> <i>Opening Night (1977), John Cassavetes, United States</i>
+
+September 2024"
+199,A Summer Place,1959,https://boxd.it/1G5o,"<b>199</b> <i>A Summer Place (1959), Delmer Daves, United States</i>
+
+September 2024"
+200,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",1975,https://boxd.it/T18,"<b>200</b> <i>Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975), Chantal Akerman, Belgium</i>
+
+September 2024"
+201,Kiss of the Spider Woman,1985,https://boxd.it/1Tci,"<b>201</b> <i>Kiss of the Spider Woman (1985), Hector Babenco, Brazil</i>
+
+October 2024"
+202,Gosford Park,2001,https://boxd.it/239e,"<b>202</b> <i>Gosford Park (2001), Robert Altman, United Kingdom</i>
+
+October 2024"
+203,Hatari!,1962,https://boxd.it/1TYm,"<b>203</b> <i>Hatari! (1962), Howard Hawks, United States</i>
+
+October 2024"
+204,"Dawn Breaks, Which Is No Small Thing",1989,https://boxd.it/1DcQ,"<b>204</b> <i>Dawn Breaks, Which Is No Small Thing (1989), Jose Luis Cuerda, Spain</i>
+October 2024"
+205,Ran,1985,https://boxd.it/1Tlu,"<b>205</b> <i>Ran (1985), Akira Kurosawa, Japan</i>
+
+October 2024"
+206,Society,1989,https://boxd.it/1ARc,"<b>206</b> <i>Society (1989), Brian Yuzna, USA</i>
+
+October 2024"
+207,The Blair Witch Project,1999,https://boxd.it/26ua,"<b>207</b> <i>The Blair Witch Project (1999), Daniel Myrick, Eduardo Sanchez, United States</i>
+
+October 2024"
+208,The Cremator,1969,https://boxd.it/1H8y,"<b>208</b> <i>The Cremator (1969), Juraj Herz, Czechoslovakia</i>
+
+October 2024"
+209,The Body Snatcher,1945,https://boxd.it/1lwy,"<b>209</b> <i>The Body Snatcher (1945), Robert Wise, United Kingdom</i>
+
+October 2024"
+210,Jennifer's Body,2009,https://boxd.it/1Efw,"<b>210</b> <i>Jennifer's Body (2009), Karyn Kusama, United States</i>
+
+October 2024"
+211,Avalon,1990,https://boxd.it/26Yu,"<b>211</b> <i>Avalon (1990), Barry Levinson, United States</i>
+
+October 2024"
+212,Mahal,1949,https://boxd.it/7BgI,"<b>212</b> <i>Mahal (1949), Kamal Amrohi, India</i>
+
+November 2024"
+213,Morgiana,1972,https://boxd.it/x9Y,"<b>213</b> <i>Morgiana (1972), Juraj Herz, Czechoslovakia</i>
+
+November 2024"
+214,Wagon Master,1950,https://boxd.it/18wU,"<b>214</b> <i>Wagon Master (1950), John Ford, United States</i>
+
+November 2024"
+215,Tenebre,1982,https://boxd.it/1mRM,"<b>215</b> <i>Tenebre (1982), Dario Argento, Italy</i>
+
+November 2024"
+216,Margot at the Wedding,2007,https://boxd.it/1OX4,"<b>215</b> <i>Margot at the Wedding (2007), Noah Baumbach, United States</i>
+
+November 2024"
+217,Ishtar,1987,https://boxd.it/1Rny,"<b>216</b> <i>Ishtar (1987), Elaine May, United States</i>
+
+November 2024"
+218,Moonstruck,1987,https://boxd.it/27zg,"<b>218</b> <i>Moonstruck (1987), Norman Jewison, United States</i>
+
+November 2024"
+219,Drop Dead Gorgeous,1999,https://boxd.it/1W8e,"<b>219</b> <i>Michael Patrick Jann (1999), Michael Patrick Jann, United States</i>
+
+November 2024"
+220,Airplane!,1980,https://boxd.it/29yu,"<b>220</b> <i>Airplane! (1980), Jim Abrahams, David Zucker, Jerry Zucker, United States</i>
+
+November 2024"
+221,Nashville,1975,https://boxd.it/25GE,"<b>221</b> <i>Nashville (1975), Robert Altman, United States</i>
+
+December 2024"
+222,"Paris, Texas",1984,https://boxd.it/29Ts,"<b>222</b> <i>Paris, Texas (1984), Wim Wenders, United States</i>
+
+December 2024"
+223,China Girl,1987,https://boxd.it/Lhi,"<b>223</b> <i>China Girl (1987), Abel Ferrara, United States</i>
+
+December 2024"
+224,I Am Cuba,1964,https://boxd.it/1hUQ,"<b>224</b> <i>Soy, Cuba (1964), Mikhail Kalatozov, USSR</i>
+
+December 2024"
+225,Miami Vice,2006,https://boxd.it/2bbW,"<b>225</b> <i>Miami Vice (2006), Michael Mann, United States</i>
+
+December 2024"
+226,Manchester by the Sea,2016,https://boxd.it/b2L0,"<b>226</b> <i>Manchester by the Sea (2016), Kenneth Lonergan, United States</i>
+
+December 2024"
+227,Hiroshima Mon Amour,1959,https://boxd.it/22WY,"<b>227</b> <i>Hiroshima Mon Amour (1959), Alain Resnais, France</i>
+
+December 2024"
+228,Casablanca,1942,https://boxd.it/2aG0,"<b>228</b> <i>Casablanca (1942), Michael Curtiz, United States</i>
+
+December 2024"
+229,Matewan,1987,https://boxd.it/1xXQ,"<b>229</b> <i>Matewan (1987), John Sayles, United States</i>
+
+December 2024"
+230,Picnic at Hanging Rock,1975,https://boxd.it/1UQe,"<b>230</b> <i>Picnic at Hanging Rock (1975), Peter Weir, Australia</i>
+
+December 2024"
+231,Ikiru,1952,https://boxd.it/251c,"<b>231</b> <i>Ikiru (1952), Akira Kurosawa, Japan</i>
+
+January 2025"
+232,Baby Doll,1956,https://boxd.it/11Hc,"<b>232</b> <i>Baby Doll (1956), Elia Kazan, United States</i>
+
+January 2025"
+233,The Moon-Spinners,1964,https://boxd.it/W0C,"<b>233</b> <i>The Moon-Spinners (1963), James Neilson, United States</i>
+
+January 2025"
+234,Show Me Love,1998,https://boxd.it/1TmW,"<b>234</b> <i>Fucking Åmål (1998), Lukas Moodysson, Sweden</i>
+
+January 2025"
+235,Chilly Scenes of Winter,1979,https://boxd.it/Xyq,"<b>235</b> <i>Chilly Scenes of Winter (1979), Joan Micklin Silver, United States</i>
+
+January 2025"
+236,Schoolgirls,2020,https://boxd.it/mWnK,"<b>236</b> <i>Schoolgirls (2020), Pilar Palomero, Spain</i>
+
+January 2025"
+237,I Do Not Care If We Go Down in History as Barbarians,2018,https://boxd.it/i4Ui,"<b>237</b> <i>I Do Not Care If We Go Down in History as Barbarians (2018), Radu Jude, Romania</i>
+
+January 2025"
+238,Dangerous Liaisons,1988,https://boxd.it/29r4,"<b>238</b> <i>Dangerous Liaisons (1988), Stephen Frears, United Kingdom</i>
+
+January 2025"
+239,History Is Made at Night,1937,https://boxd.it/1i9Q,"<b>239</b> <i>History is Made at Night (1937), Frank Borzage, United States</i>
+
+January 2025"
+240,The Curious Case of Benjamin Button,2008,https://boxd.it/23Fk,"<b>240</b> <i>The Curious Case of Benjamin Button (2008), David Fincher, United States</i>
+
+January 2025"
+241,Princess Cyd,2017,https://boxd.it/gewQ,"<b>241</b> <i>Princess Cyd (2017), Stephen Cone, United States</i>
+
+February 2025"
+242,Unconquered,1947,https://boxd.it/2oUq,"<b>242</b> <i>Unconquered (1947), Cecil B. DeMille, United States</i>
+
+February 2025"
+243,Abraham's Valley,1993,https://boxd.it/3DBA,"<b>243</b> <i>Abraham's Valley (1993),  Manoel de Oliveira, Portugal</i>
+
+February 2025"
+244,My Night at Maud's,1969,https://boxd.it/Hwo,"<b>244</b> <i>My Night at Maud's (1969),  Éric Rohmer, France</i>
+
+February 2025"
+245,The Sugarland Express,1974,https://boxd.it/23la,"<b>245</b> <i>The Sugarland Express (1974), Steven Spielberg, United States</i>
+
+February 2025"
+246,In a Lonely Place,1950,https://boxd.it/1JgO,"<b>246</b> <i>In a Lonely Place (1950), Nicholas Ray, United States</i>
+
+February 2025"
+247,All About Lily Chou-Chou,2001,https://boxd.it/1JP0,"<b>247</b> <i>All About Lily Chou-Chou (2001), Shunji Iwai, Japan</i>
+
+February 2025"
+248,Anna Karenina,2012,https://boxd.it/3lyy,"<b>248</b> <i>Anna Karenina (2012), Joe Wright, United States</i>
+
+February 2025"
+249,Forbidden Planet,1956,https://boxd.it/29vK,"<b>249</b> <i>Forbidden Planet (1956), Fred M. Wilcox, United States</i>
+
+February 2025"
+250,Flowers of Shanghai,1998,https://boxd.it/Omq,"<b>250</b> <i>Flowers of Shanghai (1998), Hou Hsiao-Hsien, Taiwan</i>
+
+February 2025"
+251,Dragon Inn,1967,https://boxd.it/3xGa,"<b>251</b> <i>Dragon Inn (1967), King Hu, Hong Kong</i>
+
+March 2025"
+252,"Goodbye, Dragon Inn",2003,https://boxd.it/oFG,"<b>252</b> <i>Goodbye, Dragon Inn (2003), Tsai Ming-liang, Taiwan</i>
+
+March 2025"
+253,Moonrise,1948,https://boxd.it/1pGW,"<b>253</b> <i>Moonrise (1948), Frank Borzage, United States</i>
+
+March 2025"
+254,Knights of the Teutonic Order,1960,https://boxd.it/27C,"<b>254</b> <i>Knights of the Teutonic Order (1960), Aleksander Ford, Poland</i>
+
+March 2025"
+255,The Last Wave,1977,https://boxd.it/2oOM,"<b>255</b> <i>The Last Wave (1977), Peter Weir, Australia</i>
+
+March 2025"
+256,The French Connection,1971,https://boxd.it/296g,"<b>256</b> <i>The French Connection (1971), William Friedkin, United States</i>
+
+March 2025"
+257,French Connection II,1975,https://boxd.it/1VA2,"<b>257</b> <i>French Connection II (1975), John Frankenheimer, United States</i>
+
+March 2025"
+258,Clemency,2019,https://boxd.it/kIko,"<b>258</b> <i>Clemency (2019), Chinonye Chukwu, United States</i>
+
+March 2025"
+259,Om Shanti Om,2007,https://boxd.it/20zy,"<b>259</b> <i>Om Shanti Om (2007), Farah Khan, India</i>
+
+March 2025"
+260,The Secret Garden,1993,https://boxd.it/1Uim,"<b>260</b> <i>The Secret Garden (1993), Agniezka Holland, United States</i>
+
+March 2025"
+261,Bonnie and Clyde,1967,https://boxd.it/2ajg,"<b>261</b> <i>Bonnie and Clyde (1967), Arthur Penn, United States</i>
+
+April 2025"
+262,36 Fillette,1988,https://boxd.it/2aky,"<b>262</b> <i>36 Fillette (1988), Catherine Breillat, France</i>
+
+April 2025"
+263,"Cornbread, Earl and Me",1975,https://boxd.it/17B0,"<b>263</b> <i>Cornbread, Earl and Me (1975), Joseph Manduke, United States</i>
+
+April 2025"
+264,The Ring,2002,https://boxd.it/2a70,"<b>264</b> <i>The Ring (2002), Gore Verbinski, United States</i>
+
+April 2025"
+265,Summertime,1955,https://boxd.it/DPw,"<b>265</b> <i>Summertime (1955), David Lean, United Kingdom</i>
+
+April 2025"
+266,Still Walking,2008,https://boxd.it/1wvm,"<b>266</b> <i>Still Walking (2008), Hirokazu Kore-eda, Japan</i>
+
+April 2025"
+267,Dark Passage,1947,https://boxd.it/1Ky0,"<b>267</b> <i>Dark Passage (1947), Delmer Daves, United States</i>
+
+April 2025"
+268,Too Late Blues,1961,https://boxd.it/2BQ2,"<b>268</b> <i>Too Late Blues (1961), John Cassavetes, United States</i>
+
+April 2025"
+269,A Serious Man,2009,https://boxd.it/1RFW,"<b>269</b> <i>A Serious Man (2009), Joel Coen, United States</i>
+
+April 2025"
+270,Master and Commander: The Far Side of the World,2003,https://boxd.it/200S,"<b>270</b> <i>Master and Commander: The Far Side of the World (2003), Peter Weir, United States</i>
+
+April 2025"
+271,Late Spring,1949,https://boxd.it/1DkK,"<b>271</b> <i>Late Spring (1949), Yasujiro Ozu, Japan</i>
+
+May 2025"
+272,Early Summer,1951,https://boxd.it/E4G,"<b>272</b> <i>Early Summer (1951), Yasujiro Ozu, Japan</i>
+
+May 2025"
+273,High Tide,1987,https://boxd.it/EKs,"<b>273</b> <i>High Tide (1987), Gillian Armstrong, Australia</i>
+
+May 2025"
+274,Lilya 4-ever,2002,https://boxd.it/1SyW,"<b>274</b> <i>Lilya 4-ever (2002), Lukas Moodysson, Sweden</i>
+
+May 2025"
+275,Dead Mountaineer's Hotel,1979,https://boxd.it/M16,"<b>275</b> <i>Dead Mountaineer's Hotel (1979), Grigori Kromanov, Estonia</i>
+
+May 2025"
+276,Blue Collar,1978,https://boxd.it/1Nhm,"<b>276</b> <i>Blue Collar (1978), Paul Schrader, United States</i>
+
+May 2025"
+277,Metropolitan,1990,https://boxd.it/1Mku,"<b>277</b> <i>Metropolitan (1990), Whit Stillman, United States</i>
+
+May 2025"
+278,Taking Off,1971,https://boxd.it/hnq,"<b>278</b> <i>Taking Off (1971), Milos Forman, United States</i>
+
+May 2025"
+279,The Sweet Hereafter,1997,https://boxd.it/1WNm,"<b>279</b> <i>The Sweet Hereafter (1997), Atom Egoyan, Canada</i>
+
+May 2025"
+280,Madeline's Madeline,2018,https://boxd.it/gNmw,"<b>280</b> <i>Madeline's Madeline (2018), Josephine Decker, United States</i>
+
+May 2025"
+281,Rocky,1976,https://boxd.it/28Uk,"<b>281</b> <i>Rocky (1976), John G. Alvidsen, United States</i>
+
+June 2025"
+282,Duelle (Une Quarantaine),1976,https://boxd.it/2WK,"<b>282</b> <i>Duelle (1976), Jacques Rivette, France</i>
+
+June 2025"
+283,Intruder in the Dust,1949,https://boxd.it/2OnM,"<b>283</b> <i>Intruder in the Dust (1949), Clarence Brown, United States</i>
+
+June 2025"
+284,Figures in a Landscape,1970,https://boxd.it/3D0k,"<b>284</b> <i>Figures in a Landscape (1970), Joseph Losey, United States</i>
+
+June 2025"
+285,Once Upon a Time in the West,1968,https://boxd.it/2az4,"<b>285</b> <i>Once Upon A Time in the West (1968), Sergio Leone, Italy</i>
+
+June 2025"
+286,Terms of Endearment,1983,https://boxd.it/1ULo,"<b>286</b> <i>Terms of Endearment (1983), James L. Brooks, United States</i>
+
+June 2025"
+287,The Docks of New York,1928,https://boxd.it/29mS,"<b>287</b> <i>The Docks of New York (1928), Josef Von Sternberg, United States</i>
+
+June 2025"
+288,Whiplash,2014,https://boxd.it/7bQA,"<b>288</b> <i>Whiplash (2014), Damien Chazelle, United States</i>
+
+June 2025"
+289,The Cranes Are Flying,1957,https://boxd.it/169Y,"<b>289</b> <i>The Cranes Are Flying (1957), Mikhail Kalatozov, USSR</i>
+
+June 2025"
+290,The Virgin Suicides,1999,https://boxd.it/28JG,"<b>290</b> <i>The Virgin Suicides (1999), Sofia Coppola, United States</i>
+
+June 2025"
+291,Ali: Fear Eats the Soul,1974,https://boxd.it/2aRi,"<b>291</b> <i>Ali: Fear Eats the Soul (1974), Rainer Werner Fassbinder, Germany</i>
+
+July 2025"
+292,Eastern Promises,2007,https://boxd.it/275q,"<b>292</b> <i>Eastern Promises (2007), David Cronenberg, Canada</i>
+
+July 2025"
+293,Vengeance Is Mine,1984,https://boxd.it/gvAU,"<b>293</b> <i>Vengeance Is Mine (1984), Michael Roemer, United States</i>
+
+July 2025"
+294,Spacked Out,2000,https://boxd.it/6uHq,"<b>294</b> <i>Spacked Out (2000), Lawrence Ah Mon, Hong Kong </i>
+
+July 2025"
+295,That Thing You Do!,1996,https://boxd.it/1Yig,"<b>295</b> <i>That Thing You Do! (1996), Tom Hanks, United States</i>
+
+July 2025"
+296,Arrival,2016,https://boxd.it/aNGk,"<b>296</b> <i>Arrival (2016), Denis Villeneuve, United States</i>
+
+July 2025"
+297,Passion Fish,1992,https://boxd.it/YzY,"<b>297</b> <i>Passion Fish (1992), John Sayles, United States</i>
+
+July 2025"
+298,Police Story,1985,https://boxd.it/1Zhe,"<b>298</b> <i>Police Story (1985), Jackie Chan, Hong Kong</i>
+
+July 2025"
+299,Detour,1945,https://boxd.it/1DB2,"<b>299</b> <i>Detour (1945), Edward G. Ulmer, United States</i>
+
+July 2025"
+300,Vertigo,1958,https://boxd.it/2apI,"<b>300</b> <i>Vertigo (1958), Alfred Hitchcock, United States</i>
+
+July 2025"
+301,Jaws,1975,https://boxd.it/2a5e,"<b>301</b> <i>Jaws (1975), Steven Spielberg, United States</i>
+
+August 2025"
+302,Miss and the Doctors,2013,https://boxd.it/68XQ,"<b>302</b> <i>Miss and the Doctors (2013), Axelle Ropert, France</i>
+
+August 2025"
+303,Until They Sail,1957,https://boxd.it/3Fsq,"<b>303</b> <i>Until They Sail (1957), Robert Wise, United States</i>
+
+August 2025"
+304,Body Heat,1981,https://boxd.it/1O9S,"<b>304</b> <i>Body Heat (1981), Lawrence Kasdan, United States</i>
+
+August 2025"
+305,The Bitter Stems,1956,https://boxd.it/5Cxm,"<b>305</b> <i>The Bitter Stems (1956), Fernando Ayala, Argentina</i>
+
+August 2025"
+306,Malcolm X,1992,https://boxd.it/27WE,"<b>306</b> <i>Malcolm X (1992), Spike Lee, United States</i>
+
+August 2025"
+307,My Reputation,1946,https://boxd.it/4436,"<b>307</b> <i>My Reputation (1946), Curtis Bernhardt, United States</i>
+
+August 2025"
+308,The Loneliest Planet,2011,https://boxd.it/2SQS,"<b>308</b> <i>The Loneliest Planet (2011), Julia Loktev, Germany</i>
+
+August 2025"
+309,The Sign of the Cross,1932,https://boxd.it/EuO,"<b>309</b> <i>The Sign of the Cross (1932), Cecil B. DeMille, United States</i>
+
+August 2025"
+310,Such Good Friends,1971,https://boxd.it/3WJ4,"<b>310</b> <i>Such Good Friends (1971), Otto Preminger, United States</i>
+
+August 2025"
+311,The Godfather,1972,https://boxd.it/2aNK,"<b>311</b> <i>The Godfather (1972), Francis Ford Coppola, United States</i>
+
+September 2025"
+312,The Godfather Part II,1974,https://boxd.it/2aNq,"<b>312</b> <i>The Godfather Part II (1974), Francis Ford Coppola, United States</i>
+
+September 2025"
+313,The Godfather Part III,1990,https://boxd.it/2aN6,"<b>313</b> <i>The Godfather Part III (1990), Francis Ford Coppola, United States</i>
+
+September 2025"
+314,The Fugitive,1993,https://boxd.it/230G,"<b>314</b> <i>The Fugitive (1993), Andrew Davis, United States</i>
+
+September 2025"
+315,Cutter's Way,1981,https://boxd.it/1iKW,"<b>315</b> <i>Cutter's Way (1981), Ivan Passer, United States</i>
+
+September 2025"
+316,Girlfight,2000,https://boxd.it/1FfM,"<b>316</b> <i>Girlfight (2000), Karyn Kusama, United States</i>
+
+September 2025"
+317,Birth,2004,https://boxd.it/1VvQ,"<b>317</b> <i>Birth (2004), Jonathan Glazer, United Kingdom</i>
+
+September 2025"
+318,The Marriage of Maria Braun,1979,https://boxd.it/29Su,"<b>318</b> <i>The Marriage of Maria Braun (1979), Rainer Werner Fassbinder, Germany</i>
+
+September 2025"
+319,Casual Sex?,1988,https://boxd.it/1dBq,"<b>319</b> <i>Casual Sex? (1988), Genevieve Robert, United States</i>
+
+September 2025"
+320,Remember the Night,1940,https://boxd.it/1n50,"<b>320</b> <i>Remember the Night (1940), Mitchell Liesen, United States</i>
+
+September 2025"
+321,Bulworth,1998,https://boxd.it/1YE2,"<b>321</b> <i>Bulworth (1998), Warren Beatty, United States</i>
+
+October 2025"
+322,Clearcut,1991,https://boxd.it/3Sqi,"<b>322</b> <i>Clearcut (1991), Ryszard Bugajski, Canada</i>
+
+October 2025"
+323,Three Days of the Condor,1975,https://boxd.it/1SF4,"<b>323</b> <i>Three Days of the Condor (1975), Sydney Pollack, United States</i>
+
+October 2025"
+324,Branded to Kill,1967,https://boxd.it/1HSQ,"<b>324</b> <i>Branded to Kill (1967), Seijun Suzuki, Japan</i>
+
+October 2025"
+325,Chuck & Buck,2000,https://boxd.it/RPA,"<b>325</b> <i>Chuck & Buck (2000), Miguel Arteta, United States</i>
+
+October 2025"
+326,Cabaret,1972,https://boxd.it/1Vpe,"<b>326</b> <i>Cabaret (1972), Bob Fosse, United States</i>
+
+October 2025"
+327,Singin' in the Rain,1952,https://boxd.it/29oY,"<b>327</b> <i>Singin' in the Rain (1952), Stanely Donen, Gene Kelly, United States</i>
+
+October 2025"
+328,Day of Wrath,1943,https://boxd.it/ZtM,"<b>328</b> <i>Day of Wrath (1943), Carl Theodor Dreyer, Denmark</i>
+
+October 2025"
+329,Speaking Parts,1989,https://boxd.it/31G8,"<b>329</b> <i>Speaking Parts (1989), Atom Egoyan, Canada</i>
+
+October 2025"
+330,The Piano,1993,https://boxd.it/29Kq,"<b>330</b> <i>The Piano (1993), Jane Campion, Australia</i>
+
+October 2025"
+331,Dead of Night,1945,https://boxd.it/1PQI,"<b>331</b> <i>Dead of Night (1945), Charles Crichton, Robert Hamer, Alberto Cavalcanti, Basil Dearden, United Kingdom</i>
+
+November 2025"
+332,Next of Kin,1982,https://boxd.it/2ZQg,"<b>332</b> <i>Next of Kin (1982), Tony Williams, Australia</i>
+
+November 2025"
+333,Confessions of an Opium Eater,1962,https://boxd.it/iRw,"<b>333</b> <i>Confessions of an Opium Eater (1962), Albert Zugsmith, United States</i>
+
+November 2025"
+334,Who Can Kill a Child?,1976,https://boxd.it/TGA,"<b>334</b> <i>Who Can Kill a Child? (1976), Chicho Ibáñez Serrador, Spain</i>
+
+November 2025"
+335,Scream,1996,https://boxd.it/24EC,"<b>335</b> <i>Scream (1996), Wes Craven, United States</i>
+
+November 2025"
+336,The Remains of the Day,1993,https://boxd.it/291A,"<b>336</b> <i>The Remains of the Day (1993), James Ivory, United Kingdom</i>
+
+November 2025"
+337,Violation,2020,https://boxd.it/rk2O,"<b>337</b> <i>Violation (2020), Madeleine Sims-Fewer, Dusty Mancinelli, Canada</i>
+
+November 2025"
+338,The 39 Steps,1935,https://boxd.it/2aKc,"<b>338</b> <i>The 39 Steps (1935), Alfred Hitchcock, United Kingdom</i>
+
+November 2025"
+339,Dead Again,1991,https://boxd.it/1TIe,"<b>339</b> <i>Dead Again (1991), Kenneth Branagh, United States</i>
+
+November 2025"
+340,Career Girls,1997,https://boxd.it/G0w,"<b>340</b> <i>Career Girls (1997), Mike Leigh, United Kingdom</i>
+
+November 2025"
+341,3:10 to Yuma,1957,https://boxd.it/1OCU,"<b>341</b> <i>3:10 to Yuma (1957), Delmer Daves, United States</i>
+
+December 2025"
+342,'Round Midnight,1986,https://boxd.it/1NC0,"<b>342</b> <i>'Round Midnight (1986), Bertrand Tavernier, United States</i>
+
+December 2025"
+343,Eastern Condors,1987,https://boxd.it/2c48,"<b>343</b> <i>Eastern Condors (1987), Sammo Hung, Hong Kon</i>
+
+December 2025"
+344,Shoot the Moon,1982,https://boxd.it/yaS,"<b>344</b> <i>Shoot the Moon (1982), Alan Parker, United States</i>
+
+December 2025"
+345,The World of Us,2016,https://boxd.it/dpeC,"<b>345</b> <i>The World of Us (2016), Yoon Ga-eun, South Korea</i>
+
+December 2025"
+346,The Crowd,1928,https://boxd.it/25Q0,"<b>346</b> <i>The Crowd (1928), King Vidor, United States</i>
+
+December 2025"
+347,Sorcerer,1977,https://boxd.it/14J6,"<b>347</b> <i>Sorcerer (1977), William Friedkin, United States</i>
+
+December 2025"
+348,Ace in the Hole,1951,https://boxd.it/1vXk,"<b>348</b> <i>Ace in the Hole (1951), Billy Wilder, United States</i>
+
+December 2025"
+349,Au Hasard Balthazar,1966,https://boxd.it/1E3g,"<b>349</b> <i>Au Hasard Balthazar (1966), Robert Bresson, France</i>
+
+December 2025"
+350,Munich,2005,https://boxd.it/2a0e,"<b>350</b> <i>Munich (2007), Steven Spielberg, United States</i>
+
+December 2025"
+351,Baby Face,1933,https://boxd.it/1rMs,"<b>351</b> <i>Baby Face (1933), Alfred E. Green, United States</i>
+
+January 2026"
+352,Forty Guns,1957,https://boxd.it/1NhG,"<b>352</b> <i>Forty Guns (1957), Samuel Fuller, United States</i>
+
+January 2026"
+353,The Furies,1950,https://boxd.it/2lg8,"<b>353</b> <i>The Furies (1950), Anthony Mann, United States</i>
+
+January 2026"
+354,There's Always Tomorrow,1956,https://boxd.it/17S6,"<b>354</b> <i>There's Always Tomorrow (1956), Douglas Sirk, United States</i>
+
+January 2026"
+355,The Incredibles,2004,https://boxd.it/1XLm,"<b>355</b> <i>The Incredibles (2004), Brad Bird, United States</i>
+
+January 2026"
+356,Ratatouille,2007,https://boxd.it/27ww,"<b>356</b> <i>Ratatouille (2007), Brad Bird, United States</i>
+
+January 2026"
+357,Little Darlings,1980,https://boxd.it/1rLa,"<b>357</b> <i>Little Darlings (1980), Ronald F. Maxwell, United States</i>
+
+January 2026"
+358,Tokyo Fist,1995,https://boxd.it/Z2m,"<b>358</b> <i>Tokyo Fist (1995), Shinya Tsukamoto, Japan </i>
+
+January 2026"
+359,Little Solange,2021,https://boxd.it/s6sq,"<b>359</b> <i>Petite Solange (2021), Axelle Ropert, France </i>
+
+January 2026"
+360,Petite Maman,2021,https://boxd.it/s6je,"<b>360</b> <i>Petite Maman (2021), Celine Sciamma, France</i>
+
+January 2026"
+361,"What's Up, Doc?",1972,https://boxd.it/21iy,"<b>361</b> <i>What's Up, Doc? (1972), Peter Bodgonavich, United States</i>
+
+February 2026"
+362,Eve's Bayou,1997,https://boxd.it/QdU,"<b>362</b> <i>Eve's Bayou (1997), Kasi Lemmons, United States</i>
+
+February 2026"
+363,The Great White Hype,1996,https://boxd.it/1CXG,"<b>363</b> <i>The Great White Hype (1996), Reginald Hudlin, United States</i>
+
+February 2026"
+364,In Cold Blood,1967,https://boxd.it/1G62,"<b>364</b> <i>In Cold Blood (1967), Richard Brooks, United States</i>
+
+February 2026"
+365,Ratcatcher,1999,https://boxd.it/1mSg,"<b>365</b> <i>Ratcatcher (1999), Lynne Ramsay, Scotland</i>
+
+February 2026"
+366,Parasite,2019,https://boxd.it/hTha,"<b>366</b> <i>Parasite (2019), Bong Joon-ho, South Korea</i>
+
+February 2026"
+367,Black Narcissus,1947,https://boxd.it/1Kce,"<b>367</b> <i>Black Narcissus (1947), Michael Powell, Emeric Pressburger, United Kingdom</i>
+
+February 2026"
+368,Dial M for Murder,1954,https://boxd.it/2adW,"<b>368</b> <i>Dial M for Murder (1954), Alfred Hitchcock, United States</i>
+
+February 2026"
+369,Parallel Mothers,2021,https://boxd.it/sOP4,"<b>369</b> <i>Parallel Mothers (2021), Pedro Almodovar, Spain</i>
+
+February 2026"
+370,True Grit,2010,https://boxd.it/Sog,"<b>370</b> <i>True Grit (2010), Joel and Ethan Coen, United States</i>
+
+February 2026"
+371,The Tall T,1957,https://boxd.it/UX8,"<b>371</b> <i>The Tall T (1957), Budd Boetticher, United States</i>
+
+March 2026"
+372,Something Wild,1986,https://boxd.it/1UbU,"<b>372</b> <i>Something Wild (1986), Jonathan Demme, United States</i>
+
+March 2026"
+373,Tender Mercies,1983,https://boxd.it/XGO,"<b>373</b> <i>Tender Mercies (1983), Bruce Beresford, United States</i>
+
+March 2026"
+374,A Story from Chikamatsu,1954,https://boxd.it/1bMw,"<b>374</b> <i>A Story from Chikamatsu (1954), Kenji Mizoguchi, Japan</i>
+
+March 2026"
+375,Set It Off,1996,https://boxd.it/1YMg,"<b>375</b> <i>Set It Off (1996), F. Gary Gray, United States</i>
+
+March 2026"
+376,Rex: A Dinosaur's Story,1993,https://boxd.it/ndPc,"<b>376</b> <i>Rex: A Dinosaur's Story (1993), Haruki Kadukawa, Japan</i>
+
+March 2026"
+377,A.I. Artificial Intelligence,2001,https://boxd.it/29Ve,"<b>377</b> <i>A.I. Artificial Intelligence (2001), Steven Spielberg, United States</i>
+
+March 2026"
+378,"Two Days, One Night",2014,https://boxd.it/6A58,"<b>378</b> <i>Two Days, One Night (2014), Jean and Luc Dardenne, France</i>
+
+March 2026"
+379,Tabu: A Story of the South Seas,1931,https://boxd.it/29aM,"<b>379</b> <i>Tabu: A Story of the South Seas (1931), F. W. Murnau, United States</i>
+
+March 2026"
+380,Carol,2015,https://boxd.it/7DPK,"<b>380</b> <i>Carol (2015), Todd Haynes, United States</i>
+
+March 2026"
